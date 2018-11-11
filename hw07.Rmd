@@ -1,0 +1,11 @@
+---
+title: "hw07"
+author: "Caroline Seip"
+date: '2018-11-11'
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
