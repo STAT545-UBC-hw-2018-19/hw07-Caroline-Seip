@@ -5,11 +5,15 @@ date: '2018-11-11'
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+The goal of this assignment is to contine developing the `powers` package by:
 
-For this assignment I will 
+- Defining and exporting one new function
+- Giving the function arguments sensible defaults
+- Documenting all exported functions
+- Including at least three unti tests for the new function 
+- `check` that the function works without errors
+- Update the README and vignette to show usage of all the functions in the package
+- Modify the instructions to tell someone how to install the package
 
 Table of Contents
 
