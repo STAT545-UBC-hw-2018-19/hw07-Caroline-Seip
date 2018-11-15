@@ -9,3 +9,11 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+For this assignment I will 
+
+Table of Contents
+
+```{r}
+suppressPackageStartupMessages(library(powers))
+```
+
